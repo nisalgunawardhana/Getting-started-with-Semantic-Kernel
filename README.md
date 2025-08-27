@@ -203,6 +203,8 @@ x
 
    ![How to Make a PR - Step 3](./images/pr-image3.png)
 
+   > **Note:** The images above demonstrate how to select the correct branches and create a pull request. The repository name shown in the screenshots may differ from yours—just follow the same steps for your own repository.
+
 
 3. **Submit your work**
 - Go to the original repository: [https://github.com/nisalgunawardhana/Getting-started-with-Semantic-Kernel](https://github.com/nisalgunawardhana/Getting-started-with-Semantic-Kernel)
