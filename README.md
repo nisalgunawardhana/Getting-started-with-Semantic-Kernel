@@ -217,6 +217,8 @@ x
 
 Once you submit, your work will be reviewed. If you have completed everything correctly, you will be assigned a digital badge for completion.
 
+![Sample Certificate and Badge](./images/certificate-sample.png)
+
 ## Semantic Kernel Architecture
 
 Semantic Kernel is designed with modular components that enable flexible integration of AI capabilities into your applications. Here’s a deeper look at its architecture:
